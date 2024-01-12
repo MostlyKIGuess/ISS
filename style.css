@@ -1,0 +1,9 @@
+.alternate-row-colors tr:nth-child(even) {background: #CCC}
+.alternate-row-colors tr:nth-child(odd) {background: #FFF}
+.green-bg {background-color: green; color: white;}
+.center-text {text-align: center; font-weight: bold;}
+.custom-border {border: 2px solid black;}
+.flex-container {
+    display: flex;
+    align-items: start; 
+  }
